@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.pavlospt</groupId>
+  <groupId>com.github.pavlospt</groupId>
   <artifactId>rxiapv3</artifactId>
   <versioning>
     <release>1.2.1</release>
