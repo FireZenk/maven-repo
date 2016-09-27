@@ -3,13 +3,14 @@
   <groupId>org.webpartners</groupId>
   <artifactId>meigic</artifactId>
   <versioning>
-    <release>1.1.2</release>
+    <release>1.1.3</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20160727095300</lastUpdated>
+    <lastUpdated>20160927101800</lastUpdated>
   </versioning>
 </metadata>
