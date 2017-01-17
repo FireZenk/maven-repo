@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.firezenk</groupId>
   <artifactId>conceptrouter</artifactId>
-  <version>2.0.2</version>
+  <version>2.0.0</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
