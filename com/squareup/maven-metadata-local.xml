@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.squareup</groupId>
-  <artifactId>android-times-square-custom</artifactId>
+  <artifactId>android-times-square</artifactId>
   <versioning>
     <release>1.6.6</release>
     <versions>

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.squareup</groupId>
-  <artifactId>android-times-square-custom</artifactId>
+  <artifactId>android-times-square</artifactId>
   <version>1.6.6</version>
   <packaging>aar</packaging>
 </project>
