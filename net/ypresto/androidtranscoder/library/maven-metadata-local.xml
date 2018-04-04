@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>net.ypresto.androidtranscoder</groupId>
-  <artifactId>android-transcoder</artifactId>
+  <artifactId>library</artifactId>
   <versioning>
     <release>0.2.1</release>
     <versions>
